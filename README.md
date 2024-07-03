@@ -44,8 +44,8 @@
 ## Main Challenge:
 - ❗ Database access issue
 
-**Work time:** 6 hours  
-**Difficulty:** 3/5
+**Work time:** 5 hours  
+**Difficulty:** 2/5
 
 *Check my video on TikTok: corentindld0*
 
